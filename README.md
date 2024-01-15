@@ -26,5 +26,4 @@ This project implements a driver drowsiness detection system using Haar Cascade 
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/drowsiness-detection.git
-   cd drowsiness-detection
+   gh repo clone jagdish283/Driver-Drowsiness-Detection-
