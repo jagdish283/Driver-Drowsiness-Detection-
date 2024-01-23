@@ -19,7 +19,7 @@ This project implements a driver drowsiness detection system using Haar Cascade 
 - Python
 - OpenCV
 - Haar Cascade Classifier
-- 
+
 
 ## Installation
 
